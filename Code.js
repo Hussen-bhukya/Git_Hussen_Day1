@@ -1,0 +1,1 @@
+first Js file in git first day of coding
